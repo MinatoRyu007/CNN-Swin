@@ -11,7 +11,13 @@ Authors: Yuanjia Liu
 
 ## Acknowledgement
 https://github.com/gokriznastic/HybridSN 
+https://github.com/microsoft/Swin-Transformer
 
+## Prerequisites
+
+- [Anaconda 4.8.3](https://www.anaconda.com/download/#linux)
+- [Tensorflow 2.6.0](https://github.com/tensorflow/tensorflow/tree/r2.4)
+- [Keras 2.4.3](https://github.com/fchollet/keras)
 
 
 
