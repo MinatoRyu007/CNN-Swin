@@ -17,4 +17,4 @@ https://github.com/gokriznastic/HybridSN
 
 ## License
 
-Copyright (c) 2021 Tanmay Chakraborty and Utkarsh Trehan. Released under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2022 Yuanjia Liu. Released under the MIT License. See [LICENSE](LICENSE) for details.
