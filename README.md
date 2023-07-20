@@ -1,13 +1,20 @@
 # CNN-Swin
 
-Authors: Yuanjia Liu
+Authors: Yuanjia Liu , Yiran Tian
 
 ## Description
-
+Hyperspectral image classification network using a combination of cnn feature extraction and a small Swin transformer.
 
 ## Cite the paper if you are using this work
 
+
 ## Link to paper
+
+@article{liu2023fusing,
+  title={Fusing 3D-CNN and lightweight Swin Transformer networks for HSI},
+  author={Liu, Baisen and Liu, Yuanjia and Zhang, Wulin and Tian, Yiran},
+  year={2023}
+}
 
 ## Acknowledgement
 https://github.com/gokriznastic/HybridSN 
